@@ -12,9 +12,9 @@ Explore the user research process here.
 
 #### Persona and Usage Scenario
 I created three personas and scenarios each focusing on the different purposes of using the website. 
- *Persona and Scenario 1: A college student with high technical skills, Taehyun, from South Korea strives to create a personalized data based on the topics he wants to explore. 
- *Persona and Scenario 2: A recreation manager with mediocre technical skills named Olivia, aged 52, strives to organize activities for her community to advance our   progress towards achieving sustainability goals. 
- *Persona and Scenario 3: An architect with higher technical skills than Olivia, but little bit less than Taehyun, named Daphney, aged 28, strives to gain insight on what is being accomplished in Africa and wants to find more information on UN's goals on ameliorating housing insecurity. 
+ * Persona and Scenario 1: A college student with high technical skills, Taehyun, from South Korea strives to create a personalized data based on the topics he wants to explore. 
+ * Persona and Scenario 2: A recreation manager with mediocre technical skills named Olivia, aged 52, strives to organize activities for her community to advance our   progress towards achieving sustainability goals. 
+ * Persona and Scenario 3: An architect with higher technical skills than Olivia, but little bit less than Taehyun, named Daphney, aged 28, strives to gain insight on what is being accomplished in Africa and wants to find more information on UN's goals on ameliorating housing insecurity. 
  
 Explore more persona and usage scenario here.
 
