@@ -86,4 +86,6 @@ I created three personas and scenarios each focusing on the different purposes o
 
 
 ## Reflection
+Creating wireframes via FIGMA was a enjoyable process that helped me hone my wireframing and wireflow skills. It was exciting to present my wireframes to the user and see how they interacted with my finalized low-fidelity prototype. Adding a new navigation tab specifically for ways users can get involved helped them find all the events, campaigns, and other opportunities under one tab. Moreover, options such as the "go back" button made it easier for the user to navigate to the first page of every submenu they initially selected. Based on the low-fidelity testing, I would implement a more specific text into clickable features so users know what to expect when they click a button or have the choice to not click that button at all if they think it is irrelevant to their usage purpose. In this project, after every task, I automatically naviagted the users to the homepage by adding a wireframe of the homepage to 
 
+For my future projects, instead of adding the wireframe of the homepage to every task, I'd like to see how the user navigates from task 1 to task 2
