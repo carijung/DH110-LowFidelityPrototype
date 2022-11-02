@@ -72,5 +72,14 @@ I created three personas and scenarios each focusing on the different purposes o
  ### Task 3: Find information about each sustainable goal
 ![1861513F-3E4F-4F9B-B828-C983E96FE1F6](https://user-images.githubusercontent.com/114601962/199402204-fd057fac-b06a-4ffb-a2a7-824ce898ea0a.jpeg)
 
+<p>&nbsp;</p>
+
+### Notes taken during prototype testing 
+> What caused confusion
+>    * 'Explore' button on "Sustainable Development Goals" page almost misled user into thinking they would be able to find specific information about the sustainability goals
+> What went smooth
+>    * Instructions were clear and user knew how to download data and what type of file to expect
+>    * The arrow in the navigation bar helped user to expect a drop down menu 
+>    * User knew what was clickable 
 ## Reflection
 
