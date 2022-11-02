@@ -2,10 +2,12 @@
 Cari Jung • DH110 • Fall 2022
 
 ## Description of Project
-#### Purpose
+#### Purpose of Low-fidelity Prototype
+The purpose of low-fidelity prototyping is to 
+
+
 #### User Research
-#### Persona
-#### Usage Scenario
+#### Persona and Usage Scenario
 
 ## Wireframes
 > Below is the homepage and the first internal pages for each scenario that the user sees. Please click this [FIGMA link](https://www.figma.com/file/h1J1kSKaf4u5o7sNmk0vFV/DH-110-Assignment-5%3A-Low-Fidelity-Prototype?node-id=0%3A1) to view the full wireframes.
