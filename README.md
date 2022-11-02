@@ -19,3 +19,5 @@ Cari Jung • DH110 • Fall 2022
 ## Testing wireflow with a user
 
 ## Reflection
+![E2FAE48A-96EB-4761-A885-BF4373675FED](https://user-images.githubusercontent.com/114601962/199386274-99109dc0-fb24-4a70-b1fc-9d35f951617d.jpeg)
+![2C19E3D5-A38E-436B-B546-9423340AECC2](https://user-images.githubusercontent.com/114601962/199386281-5e3ed5b1-904f-483a-950f-ad049f779581.jpeg)
