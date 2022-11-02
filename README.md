@@ -8,7 +8,7 @@ The purpose of this low-fidelity prototyping is to test the features of UN Envir
 #### User Research
 The UN Environment Programme site is a global site and therefore attracts people from all over the world. Hence, the interface and flow of this website sould be designed so that it can cater to the wide demographic of users. By conducting a user research, I was able to find that it is difficult to look for specific resources and ways they could get involved to ameliorate the pressing environmental issues. Therefore, my purpose is to enhanve features that seme to be hidden away. 
 
-Explore the user research process [here]([https://github.com/carijung/DH110-UserResearch](https://github.com/carijung/DH110-UserResearch/blob/main/README.md). 
+Explore the user research process [here](https://github.com/carijung/DH110-UserResearch/blob/main/README.md). 
 
 #### Persona and Usage Scenario
 I created three personas and scenarios each focusing on the different purposes of using the website. 
