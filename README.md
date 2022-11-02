@@ -9,6 +9,10 @@ Cari Jung • DH110 • Fall 2022
 #### Usage Scenario
 
 ## Wireframes
+> For better display, unrelated parts of the wireframe have been cut out. Please click this [FIGMA link](https://www.figma.com/file/h1J1kSKaf4u5o7sNmk0vFV/DH-110-Assignment-5%3A-Low-Fidelity-Prototype?node-id=0%3A1) to view the full wireframes.
+
+
+## Wireflow
 > For better display, unrelated parts of the wireframe have been cut out. Please click this [FIGMA link](https://www.figma.com/file/h1J1kSKaf4u5o7sNmk0vFV/DH-110-Assignment-5%3A-Low-Fidelity-Prototype?node-id=0%3A1) to view the full wireframes and wireflow.
 
 ### Scenario 1
@@ -24,8 +28,6 @@ Cari Jung • DH110 • Fall 2022
 ### Scenario 3
 ![2C19E3D5-A38E-436B-B546-9423340AECC2](https://user-images.githubusercontent.com/114601962/199386281-5e3ed5b1-904f-483a-950f-ad049f779581.jpeg)
 
-## Wireflow
-> For better display, unrelated parts of the wireframe have been cut out. Please click this [FIGMA link](https://www.figma.com/file/h1J1kSKaf4u5o7sNmk0vFV/DH-110-Assignment-5%3A-Low-Fidelity-Prototype?node-id=0%3A1) to view the full wireframes and wireflow.
 
 ## Testing wireflow with a user
 
