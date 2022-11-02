@@ -56,6 +56,7 @@ I created three personas and scenarios each focusing on the different purposes o
 ###  • Wireflow - Task 3
 ![2C19E3D5-A38E-436B-B546-9423340AECC2](https://user-images.githubusercontent.com/114601962/199386281-5e3ed5b1-904f-483a-950f-ad049f779581.jpeg)
 
+<p>&nbsp;</p>
 
 ## Testing wireflow with a user
 ![3FFA7CEE-24B4-4D24-AEAB-F47F9746BB0D](https://user-images.githubusercontent.com/114601962/199402194-fed2c475-f5af-4e75-9c30-e954819c7c77.jpeg)
