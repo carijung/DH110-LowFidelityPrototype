@@ -1,3 +1,4 @@
+![1B55DA5E-EE4C-41EA-84DC-65B23D8F70FC](https://user-images.githubusercontent.com/114601962/199388771-290775ed-d04d-4928-9b54-614533bd76d4.jpeg)
 
 # Assignment 5: Low Fidelity Prototype
 Cari Jung • DH110 • Fall 2022
