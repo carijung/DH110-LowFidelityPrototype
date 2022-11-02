@@ -13,7 +13,7 @@ Cari Jung • DH110 • Fall 2022
 ### Homepage
 ![E7F52831-985F-4EA0-9299-D856B47A9152](https://user-images.githubusercontent.com/114601962/199388283-b55824c1-6112-4cf4-839e-0879ef449aa2.png)
 
-### Scenario 1 first page
+### *Scenario 1 first page
 ![94142171-7B3D-43FC-94C8-AE453F7CEC0C](https://user-images.githubusercontent.com/114601962/199388285-4fe305a8-1704-4588-b926-075aaddafc49.jpeg)
 
 ### Scenario 2 first page
