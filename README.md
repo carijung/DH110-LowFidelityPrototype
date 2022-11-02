@@ -77,9 +77,13 @@ I created three personas and scenarios each focusing on the different purposes o
 ### Notes taken during prototype testing 
 > What caused confusion
 >    * 'Explore' button on "Sustainable Development Goals" page almost misled user into thinking they would be able to find specific information about the sustainability goals
+
+
 > What went smooth
 >    * Instructions were clear and user knew how to download data and what type of file to expect
 >    * The arrow in the navigation bar helped user to expect a drop down menu 
 >    * User knew what was clickable 
+
+
 ## Reflection
 
