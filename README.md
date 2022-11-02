@@ -58,6 +58,9 @@ I created three personas and scenarios each focusing on the different purposes o
 
 
 ## Testing wireflow with a user
+![3FFA7CEE-24B4-4D24-AEAB-F47F9746BB0D](https://user-images.githubusercontent.com/114601962/199402194-fed2c475-f5af-4e75-9c30-e954819c7c77.jpeg)
+![707AD204-A9A4-4C26-8FBC-6334F4E91E4C](https://user-images.githubusercontent.com/114601962/199402202-45e89702-2f9b-450d-a637-797ad6ec2624.jpeg)
+![1861513F-3E4F-4F9B-B828-C983E96FE1F6](https://user-images.githubusercontent.com/114601962/199402204-fd057fac-b06a-4ffb-a2a7-824ce898ea0a.jpeg)
 
 ## Reflection
 
