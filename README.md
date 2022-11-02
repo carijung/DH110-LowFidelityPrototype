@@ -3,7 +3,7 @@ Cari Jung • DH110 • Fall 2022
 
 ## Description of Project
 #### Purpose of Low-fidelity Prototype
-The purpose of low-fidelity prototyping is to 
+The purpose of this low-fidelity prototyping is to test the features of UN Environment Programme by analyzing how users achieve their goal the "right" way (whether they do what we expect them to do).
 
 
 #### User Research
